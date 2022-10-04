@@ -25,7 +25,7 @@ Create a first site using React.JS framework with Darkmode toggle.
 
 ### Links
 
-- Live Site URL: [@Netlify](https://digital-business-card-bennev.netlify.app/)
+- Live Site URL: [@Netlify](https://training-dark-mode-bennev.netlify.app/)
 - Solution URL: [@GitHub](https://github.com/Bennev/training-dark-mode)
 
 ### Getting Started with Create React App
