@@ -1,4 +1,4 @@
-# Scrimba - Scrimba - React Site Solution
+# Scrimba - React Site Solution
 
 This is a solution to the [React Site project on Scrimba](https://scrimba.com/learn/learnreact). Scrimba helps you improve your coding skills by building realistic projects.
 
